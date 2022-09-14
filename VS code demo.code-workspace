@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../VS code demo"
+		},
+		{
+			"name": "EDA",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
