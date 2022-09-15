@@ -1,2 +1,4 @@
-logs/mylogs.log
-mylog.log
+logs/mylogs.log    # only ignore this log file if it comes under logs folder
+*.log              # ignore all files which have .log extension
+mylog.log          # ignore all the files which have this name
+calm/              # it will ignore the whole calm folder
